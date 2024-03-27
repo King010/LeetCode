@@ -17,7 +17,7 @@ import Cocoa
 class ListReverseBetween: NSObject {
     func reverseBetween(_ head: ListNode?, _ left: Int, _ right: Int) -> ListNode? {
         
-        if left == right {
+        if left == rit {
             return head
         }
         
