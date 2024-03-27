@@ -63,4 +63,7 @@ public class TreeNode {
 
 //LowestCommonAncestorClass().main()
 //MergeTwoArrayClass().main()
-ArrayPermuteClass().main()
+//ArrayPermuteClass().main()
+//ZigzagLevelOrderClass().main()
+//ListReverseBetween().main()
+SpiralOrderClass().main()

@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0616EC8B2BB42CB600D35872 /* 螺旋矩阵.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0616EC8A2BB42CB600D35872 /* 螺旋矩阵.swift */; };
 		067A6A932BB2D03400CBADBF /* 买卖股票的最佳时机.swift in Sources */ = {isa = PBXBuildFile; fileRef = 067A6A922BB2D03400CBADBF /* 买卖股票的最佳时机.swift */; };
 		06A6C5F52BB2F61100BDDB53 /* 最长不重复子串.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06A6C5F42BB2F61100BDDB53 /* 最长不重复子串.swift */; };
 		06B247C02BB1A786001C9F6B /* TreeLevelOrder.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06B247BF2BB1A786001C9F6B /* TreeLevelOrder.swift */; };
@@ -21,6 +22,7 @@
 		06FC2D872BB3C5CA00B15E28 /* 合并两个有序数组.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06FC2D862BB3C5CA00B15E28 /* 合并两个有序数组.swift */; };
 		06FC2D892BB3D05B00B15E28 /* 全排列.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06FC2D882BB3D05B00B15E28 /* 全排列.swift */; };
 		06FC2D8B2BB3F7AB00B15E28 /* 二叉树的锯齿形层序遍历.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06FC2D8A2BB3F7AB00B15E28 /* 二叉树的锯齿形层序遍历.swift */; };
+		06FC2D8D2BB40E0A00B15E28 /* 翻转链表2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06FC2D8C2BB40E0A00B15E28 /* 翻转链表2.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -36,6 +38,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		0616EC8A2BB42CB600D35872 /* 螺旋矩阵.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "螺旋矩阵.swift"; sourceTree = "<group>"; };
 		067A6A922BB2D03400CBADBF /* 买卖股票的最佳时机.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "买卖股票的最佳时机.swift"; sourceTree = "<group>"; };
 		06A6C5F42BB2F61100BDDB53 /* 最长不重复子串.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "最长不重复子串.swift"; sourceTree = "<group>"; };
 		06B247BF2BB1A786001C9F6B /* TreeLevelOrder.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TreeLevelOrder.swift; sourceTree = "<group>"; };
@@ -51,6 +54,7 @@
 		06FC2D862BB3C5CA00B15E28 /* 合并两个有序数组.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "合并两个有序数组.swift"; sourceTree = "<group>"; };
 		06FC2D882BB3D05B00B15E28 /* 全排列.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "全排列.swift"; sourceTree = "<group>"; };
 		06FC2D8A2BB3F7AB00B15E28 /* 二叉树的锯齿形层序遍历.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "二叉树的锯齿形层序遍历.swift"; sourceTree = "<group>"; };
+		06FC2D8C2BB40E0A00B15E28 /* 翻转链表2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "翻转链表2.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +101,8 @@
 				06FC2D862BB3C5CA00B15E28 /* 合并两个有序数组.swift */,
 				06FC2D882BB3D05B00B15E28 /* 全排列.swift */,
 				06FC2D8A2BB3F7AB00B15E28 /* 二叉树的锯齿形层序遍历.swift */,
+				06FC2D8C2BB40E0A00B15E28 /* 翻转链表2.swift */,
+				0616EC8A2BB42CB600D35872 /* 螺旋矩阵.swift */,
 			);
 			path = testMacOS;
 			sourceTree = "<group>";
@@ -164,8 +170,10 @@
 				06C6C2962BB158230069AF70 /* MergeList.swift in Sources */,
 				06FC2D852BB3BAD300B15E28 /* 二叉树最近公共祖先.swift in Sources */,
 				06EDAA362BABC74900BCC224 /* main.swift in Sources */,
+				06FC2D8D2BB40E0A00B15E28 /* 翻转链表2.swift in Sources */,
 				06B247C22BB2631C001C9F6B /* 搜索旋转排序数组.swift in Sources */,
 				06FC2D892BB3D05B00B15E28 /* 全排列.swift in Sources */,
+				0616EC8B2BB42CB600D35872 /* 螺旋矩阵.swift in Sources */,
 				06FC2D832BB3B7F900B15E28 /* 有效的括号.swift in Sources */,
 				06A6C5F52BB2F61100BDDB53 /* 最长不重复子串.swift in Sources */,
 				06C6C2982BB15B680069AF70 /* TwoSum.swift in Sources */,
