@@ -17,6 +17,11 @@ import Cocoa
  https://leetcode.cn/problems/spiral-matrix/description/
  3
  2
+ [1,   2,  3,  4,   5],
+ [6,   7,  8,  9, 10],
+ [11,12,13,14,15],
+ [16,17,18,19,20],
+ [21,22,23,24,25]]
  */
 
 class SpiralOrderClass: NSObject {
@@ -57,7 +62,7 @@ class SpiralOrderClass: NSObject {
             } else if arrow == "up" {
                 row -= 1
                 if row == upMin {
-                    upMin += 1
+                    leftMin += 1
                     arrow = "right"
                 }
             }
@@ -67,7 +72,7 @@ class SpiralOrderClass: NSObject {
     }
 
     func main() {
-        let result = spiralOrder([[3], [2]])
+        let result = spiralOrder([[1,2,3,4,5],[6,7,8,9,10],[11,12,13,14,15],[16,17,18,19,20],[21,22,23,24,25]])
         print(result)
     }
 }
