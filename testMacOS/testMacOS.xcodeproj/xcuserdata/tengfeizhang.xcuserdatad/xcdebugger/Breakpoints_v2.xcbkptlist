@@ -1,0 +1,603 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "2DB73189-CEBE-42E3-B315-56A391E87BA4"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B4064C33-A223-4783-B36D-0FE149484071"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "testMacOS/Sort.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "44"
+            endingLineNumber = "44"
+            landmarkName = "sortFunction(_:_:nums:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "14A11D5C-7AB6-4D70-AD17-6D5A4D88DDE5"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "testMacOS/Sort.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "sortArray(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "14A11D5C-7AB6-4D70-AD17-6D5A4D88DDE5 - 81d2f63cfa71b3ea"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "testMacOS.Sort.sortArray(Swift.Array&lt;Swift.Int&gt;) -&gt; Swift.Array&lt;Swift.Int&gt;"
+                  moduleName = "testMacOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tengfeizhang/Desktop/%E6%B5%8B%E8%AF%95/testMacOS/testMacOS/Sort.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "188">
+               </Location>
+               <Location
+                  uuid = "14A11D5C-7AB6-4D70-AD17-6D5A4D88DDE5 - 81d2f63cfa71b3ea"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "testMacOS.Sort.sortArray(Swift.Array&lt;Swift.Int&gt;) -&gt; Swift.Array&lt;Swift.Int&gt;"
+                  moduleName = "testMacOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tengfeizhang/Desktop/%E6%B5%8B%E8%AF%95/testMacOS/testMacOS/Sort.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "144">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B3966F17-057C-41B0-AB46-668BA2811CB0"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "testMacOS/&#x6700;&#x957f;&#x56de;&#x6587;&#x5b50;&#x4e32;.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "longestPalindrome(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B3966F17-057C-41B0-AB46-668BA2811CB0 - 4c52df2956987bbc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "testMacOS.LongestPalindromeClass.longestPalindrome(Swift.String) -&gt; Swift.String"
+                  moduleName = "testMacOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tengfeizhang/Desktop/%E6%B5%8B%E8%AF%95/testMacOS/testMacOS/%E6%9C%80%E9%95%BF%E5%9B%9E%E6%96%87%E5%AD%90%E4%B8%B2.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "784">
+               </Location>
+               <Location
+                  uuid = "B3966F17-057C-41B0-AB46-668BA2811CB0 - 4c52df2956987b9d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "testMacOS.LongestPalindromeClass.longestPalindrome(Swift.String) -&gt; Swift.String"
+                  moduleName = "testMacOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tengfeizhang/Desktop/%E6%B5%8B%E8%AF%95/testMacOS/testMacOS/%E6%9C%80%E9%95%BF%E5%9B%9E%E6%96%87%E5%AD%90%E4%B8%B2.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "728">
+               </Location>
+               <Location
+                  uuid = "B3966F17-057C-41B0-AB46-668BA2811CB0 - 4c52df2956987bbc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "testMacOS.LongestPalindromeClass.longestPalindrome(Swift.String) -&gt; Swift.String"
+                  moduleName = "testMacOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tengfeizhang/Desktop/%E6%B5%8B%E8%AF%95/testMacOS/testMacOS/%E6%9C%80%E9%95%BF%E5%9B%9E%E6%96%87%E5%AD%90%E4%B8%B2.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "728">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6AD91441-38DA-4246-8CD2-E7BE1A6B574F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "testMacOS/&#x6700;&#x957f;&#x56de;&#x6587;&#x5b50;&#x4e32;.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "longestPalindrome(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "6AD91441-38DA-4246-8CD2-E7BE1A6B574F - 4c52df2956987a38"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "testMacOS.LongestPalindromeClass.longestPalindrome(Swift.String) -&gt; Swift.String"
+                  moduleName = "testMacOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tengfeizhang/Desktop/%E6%B5%8B%E8%AF%95/testMacOS/testMacOS/%E6%9C%80%E9%95%BF%E5%9B%9E%E6%96%87%E5%AD%90%E4%B8%B2.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "1184">
+               </Location>
+               <Location
+                  uuid = "6AD91441-38DA-4246-8CD2-E7BE1A6B574F - 4c52df2956987a19"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "testMacOS.LongestPalindromeClass.longestPalindrome(Swift.String) -&gt; Swift.String"
+                  moduleName = "testMacOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tengfeizhang/Desktop/%E6%B5%8B%E8%AF%95/testMacOS/testMacOS/%E6%9C%80%E9%95%BF%E5%9B%9E%E6%96%87%E5%AD%90%E4%B8%B2.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "1108">
+               </Location>
+               <Location
+                  uuid = "6AD91441-38DA-4246-8CD2-E7BE1A6B574F - 4c52df2956987a19"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "testMacOS.LongestPalindromeClass.longestPalindrome(Swift.String) -&gt; Swift.String"
+                  moduleName = "testMacOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tengfeizhang/Desktop/%E6%B5%8B%E8%AF%95/testMacOS/testMacOS/%E6%9C%80%E9%95%BF%E5%9B%9E%E6%96%87%E5%AD%90%E4%B8%B2.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "1132">
+               </Location>
+               <Location
+                  uuid = "6AD91441-38DA-4246-8CD2-E7BE1A6B574F - 4c52df2956987a57"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "testMacOS.LongestPalindromeClass.longestPalindrome(Swift.String) -&gt; Swift.String"
+                  moduleName = "testMacOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tengfeizhang/Desktop/%E6%B5%8B%E8%AF%95/testMacOS/testMacOS/%E6%9C%80%E9%95%BF%E5%9B%9E%E6%96%87%E5%AD%90%E4%B8%B2.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "1132">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6321444B-E3B6-4A75-B005-C1508C587BED"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "testMacOS/&#x5408;&#x5e76;&#x4e24;&#x4e2a;&#x6709;&#x5e8f;&#x6570;&#x7ec4;.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "40"
+            endingLineNumber = "40"
+            landmarkName = "main()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "6321444B-E3B6-4A75-B005-C1508C587BED - 232643bac471f970"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "testMacOS.MergeTwoArrayClass.main() -&gt; ()"
+                  moduleName = "testMacOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tengfeizhang/Desktop/%E6%B5%8B%E8%AF%95/testMacOS/testMacOS/%E5%90%88%E5%B9%B6%E4%B8%A4%E4%B8%AA%E6%9C%89%E5%BA%8F%E6%95%B0%E7%BB%84.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "380">
+               </Location>
+               <Location
+                  uuid = "6321444B-E3B6-4A75-B005-C1508C587BED - 232643bac471f970"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "testMacOS.MergeTwoArrayClass.main() -&gt; ()"
+                  moduleName = "testMacOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tengfeizhang/Desktop/%E6%B5%8B%E8%AF%95/testMacOS/testMacOS/%E5%90%88%E5%B9%B6%E4%B8%A4%E4%B8%AA%E6%9C%89%E5%BA%8F%E6%95%B0%E7%BB%84.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "332">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6B03901A-97A9-4294-B7CD-86D2D767B0D1"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "testMacOS/&#x5408;&#x5e76;&#x4e24;&#x4e2a;&#x6709;&#x5e8f;&#x6570;&#x7ec4;.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "merge(_:_:_:_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "6B03901A-97A9-4294-B7CD-86D2D767B0D1 - 2fe18522f335f648"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "testMacOS.MergeTwoArrayClass.merge(inout Swift.Array&lt;Swift.Int&gt;, Swift.Int, Swift.Array&lt;Swift.Int&gt;, Swift.Int) -&gt; ()"
+                  moduleName = "testMacOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tengfeizhang/Desktop/%E6%B5%8B%E8%AF%95/testMacOS/testMacOS/%E5%90%88%E5%B9%B6%E4%B8%A4%E4%B8%AA%E6%9C%89%E5%BA%8F%E6%95%B0%E7%BB%84.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "340">
+               </Location>
+               <Location
+                  uuid = "6B03901A-97A9-4294-B7CD-86D2D767B0D1 - 2fe18522f335f648"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "testMacOS.MergeTwoArrayClass.merge(inout Swift.Array&lt;Swift.Int&gt;, Swift.Int, Swift.Array&lt;Swift.Int&gt;, Swift.Int) -&gt; ()"
+                  moduleName = "testMacOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tengfeizhang/Desktop/%E6%B5%8B%E8%AF%95/testMacOS/testMacOS/%E5%90%88%E5%B9%B6%E4%B8%A4%E4%B8%AA%E6%9C%89%E5%BA%8F%E6%95%B0%E7%BB%84.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "296">
+               </Location>
+               <Location
+                  uuid = "6B03901A-97A9-4294-B7CD-86D2D767B0D1 - 2fe18522f335f648"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "testMacOS.MergeTwoArrayClass.merge(inout Swift.Array&lt;Swift.Int&gt;, Swift.Int, Swift.Array&lt;Swift.Int&gt;, Swift.Int) -&gt; ()"
+                  moduleName = "testMacOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tengfeizhang/Desktop/%E6%B5%8B%E8%AF%95/testMacOS/testMacOS/%E5%90%88%E5%B9%B6%E4%B8%A4%E4%B8%AA%E6%9C%89%E5%BA%8F%E6%95%B0%E7%BB%84.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "384">
+               </Location>
+               <Location
+                  uuid = "6B03901A-97A9-4294-B7CD-86D2D767B0D1 - 2fe18522f335f648"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "testMacOS.MergeTwoArrayClass.merge(inout Swift.Array&lt;Swift.Int&gt;, Swift.Int, Swift.Array&lt;Swift.Int&gt;, Swift.Int) -&gt; ()"
+                  moduleName = "testMacOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tengfeizhang/Desktop/%E6%B5%8B%E8%AF%95/testMacOS/testMacOS/%E5%90%88%E5%B9%B6%E4%B8%A4%E4%B8%AA%E6%9C%89%E5%BA%8F%E6%95%B0%E7%BB%84.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "336">
+               </Location>
+               <Location
+                  uuid = "6B03901A-97A9-4294-B7CD-86D2D767B0D1 - 2fe18522f335f648"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "testMacOS.MergeTwoArrayClass.merge(inout Swift.Array&lt;Swift.Int&gt;, Swift.Int, Swift.Array&lt;Swift.Int&gt;, Swift.Int) -&gt; ()"
+                  moduleName = "testMacOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tengfeizhang/Desktop/%E6%B5%8B%E8%AF%95/testMacOS/testMacOS/%E5%90%88%E5%B9%B6%E4%B8%A4%E4%B8%AA%E6%9C%89%E5%BA%8F%E6%95%B0%E7%BB%84.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "256">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.ExceptionBreakpoint">
+         <BreakpointContent
+            uuid = "B208AAB1-AFD3-445A-B89A-76B8DFBC3829"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            breakpointStackSelectionBehavior = "1"
+            scope = "1"
+            stopOnStyle = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "32FC9460-4684-4F1A-964F-BF21A8B02582"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "testMacOS/&#x5168;&#x6392;&#x5217;.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "50"
+            endingLineNumber = "50"
+            landmarkName = "main()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "32FC9460-4684-4F1A-964F-BF21A8B02582 - 55d39b5f84862285"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "testMacOS.ArrayPermuteClass.main() -&gt; ()"
+                  moduleName = "testMacOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tengfeizhang/Desktop/%E6%B5%8B%E8%AF%95/testMacOS/testMacOS/%E5%85%A8%E6%8E%92%E5%88%97.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50"
+                  offsetFromSymbolStart = "200">
+               </Location>
+               <Location
+                  uuid = "32FC9460-4684-4F1A-964F-BF21A8B02582 - 55d39b5f84862285"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "testMacOS.ArrayPermuteClass.main() -&gt; ()"
+                  moduleName = "testMacOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tengfeizhang/Desktop/%E6%B5%8B%E8%AF%95/testMacOS/testMacOS/%E5%85%A8%E6%8E%92%E5%88%97.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50"
+                  offsetFromSymbolStart = "168">
+               </Location>
+               <Location
+                  uuid = "32FC9460-4684-4F1A-964F-BF21A8B02582 - 55d39b5f84862285"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "testMacOS.ArrayPermuteClass.main() -&gt; ()"
+                  moduleName = "testMacOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tengfeizhang/Desktop/%E6%B5%8B%E8%AF%95/testMacOS/testMacOS/%E5%85%A8%E6%8E%92%E5%88%97.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50"
+                  offsetFromSymbolStart = "176">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FF2D4CF8-9546-476F-9576-AC99BC10A0AE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "testMacOS/&#x5168;&#x6392;&#x5217;.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "permute1(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "FF2D4CF8-9546-476F-9576-AC99BC10A0AE - 3a19c7c0fa9d597e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "testMacOS.ArrayPermuteClass.permute1(Swift.Array&lt;Swift.Int&gt;) -&gt; Swift.Array&lt;Swift.Array&lt;Swift.Int&gt;&gt;"
+                  moduleName = "testMacOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tengfeizhang/Desktop/%E6%B5%8B%E8%AF%95/testMacOS/testMacOS/%E5%85%A8%E6%8E%92%E5%88%97.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "248">
+               </Location>
+               <Location
+                  uuid = "FF2D4CF8-9546-476F-9576-AC99BC10A0AE - bf77098cce844be5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "testMacOS.ArrayPermuteClass.dfs(visit: inout Swift.Array&lt;Swift.Bool&gt;, nums: Swift.Array&lt;Swift.Int&gt;, path: Swift.Array&lt;Swift.Int&gt;) -&gt; ()"
+                  moduleName = "testMacOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tengfeizhang/Desktop/%E6%B5%8B%E8%AF%95/testMacOS/testMacOS/%E5%85%A8%E6%8E%92%E5%88%97.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "672">
+               </Location>
+               <Location
+                  uuid = "FF2D4CF8-9546-476F-9576-AC99BC10A0AE - bf77098cce844b86"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "testMacOS.ArrayPermuteClass.dfs(visit: inout Swift.Array&lt;Swift.Bool&gt;, nums: Swift.Array&lt;Swift.Int&gt;, path: Swift.Array&lt;Swift.Int&gt;) -&gt; ()"
+                  moduleName = "testMacOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tengfeizhang/Desktop/%E6%B5%8B%E8%AF%95/testMacOS/testMacOS/%E5%85%A8%E6%8E%92%E5%88%97.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "688">
+               </Location>
+               <Location
+                  uuid = "FF2D4CF8-9546-476F-9576-AC99BC10A0AE - a4053085d0b2870d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "testMacOS.ArrayPermuteClass.permute(Swift.Array&lt;Swift.Int&gt;) -&gt; Swift.Array&lt;Swift.Array&lt;Swift.Int&gt;&gt;"
+                  moduleName = "testMacOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tengfeizhang/Desktop/%E6%B5%8B%E8%AF%95/testMacOS/testMacOS/%E5%85%A8%E6%8E%92%E5%88%97.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "68">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7A20CF50-5120-44E7-8106-17CC6857FC0E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "testMacOS/&#x5168;&#x6392;&#x5217;.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "permute(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "7A20CF50-5120-44E7-8106-17CC6857FC0E - a4053085d0b2819a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "testMacOS.ArrayPermuteClass.permute(Swift.Array&lt;Swift.Int&gt;) -&gt; Swift.Array&lt;Swift.Array&lt;Swift.Int&gt;&gt;"
+                  moduleName = "testMacOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tengfeizhang/Desktop/%E6%B5%8B%E8%AF%95/testMacOS/testMacOS/%E5%85%A8%E6%8E%92%E5%88%97.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "104">
+               </Location>
+               <Location
+                  uuid = "7A20CF50-5120-44E7-8106-17CC6857FC0E - a4053085d0b2819a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "testMacOS.ArrayPermuteClass.permute(Swift.Array&lt;Swift.Int&gt;) -&gt; Swift.Array&lt;Swift.Array&lt;Swift.Int&gt;&gt;"
+                  moduleName = "testMacOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tengfeizhang/Desktop/%E6%B5%8B%E8%AF%95/testMacOS/testMacOS/%E5%85%A8%E6%8E%92%E5%88%97.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "120">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "76D4DD6E-6A8D-4912-AA76-75791606B5AF"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "testMacOS/&#x5168;&#x6392;&#x5217;.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "permute(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "76D4DD6E-6A8D-4912-AA76-75791606B5AF - a4053085d0b281fb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "testMacOS.ArrayPermuteClass.permute(Swift.Array&lt;Swift.Int&gt;) -&gt; Swift.Array&lt;Swift.Array&lt;Swift.Int&gt;&gt;"
+                  moduleName = "testMacOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tengfeizhang/Desktop/%E6%B5%8B%E8%AF%95/testMacOS/testMacOS/%E5%85%A8%E6%8E%92%E5%88%97.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "156">
+               </Location>
+               <Location
+                  uuid = "76D4DD6E-6A8D-4912-AA76-75791606B5AF - a4053085d0b281fb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "testMacOS.ArrayPermuteClass.permute(Swift.Array&lt;Swift.Int&gt;) -&gt; Swift.Array&lt;Swift.Array&lt;Swift.Int&gt;&gt;"
+                  moduleName = "testMacOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tengfeizhang/Desktop/%E6%B5%8B%E8%AF%95/testMacOS/testMacOS/%E5%85%A8%E6%8E%92%E5%88%97.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "188">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
