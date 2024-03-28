@@ -6,12 +6,12 @@
 //  Copyright © 2024 腾飞张. All rights reserved.
 //
 
-import UIKit
-
 //[-1,0,1,2,-1,-4]
 //-4 -1 -1 0 1 2
+import Cocoa
 
-class ThreeSumClass: NSObject {
+
+class ThreeSumClass {
     func threeSum(_ nums: [Int]) -> [[Int]] {
         var returnVal = [[Int]]()
         if nums.count <= 2 {
