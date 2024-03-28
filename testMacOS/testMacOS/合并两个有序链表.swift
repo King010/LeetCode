@@ -7,7 +7,7 @@
 
 import Cocoa
 
-class MergeList: NSObject {
+class MergeTwoListsClass: NSObject {
     func mergeTwoLists(_ list1: ListNode?, _ list2: ListNode?) -> ListNode? {
         var newHead: ListNode? = ListNode(0)
         var returnHead = newHead
@@ -35,17 +35,3 @@ class MergeList: NSObject {
     }
 }
 
-class HasCycleClass {
-    func hasCycle(_ head: ListNode?) -> Bool {
-        var fastNode = head
-        var slowNode = head
-        while fastNode?.next != nil, fastNode != nil {
-            fastNode = fastNode?.next?.next
-            slowNode = slowNode?.next
-            if slowNode === fastNode {
-                return true
-            }
-        }
-        return false
-    }
-}
