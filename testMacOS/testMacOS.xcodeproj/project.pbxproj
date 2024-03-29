@@ -42,6 +42,7 @@
 		06EDAA362BABC74900BCC224 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06EDAA352BABC74900BCC224 /* main.swift */; };
 		06EDAA3D2BAC190100BCC224 /* Sort.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06EDAA3C2BAC190100BCC224 /* Sort.swift */; };
 		06F2F1662BB6BF7100B6D830 /* 二分查找.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06F2F1652BB6BF7100B6D830 /* 二分查找.swift */; };
+		06F2F1682BB6CCB000B6D830 /* 用栈实现队列.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06F2F1672BB6CCAF00B6D830 /* 用栈实现队列.swift */; };
 		06FC2D832BB3B7F900B15E28 /* 有效的括号.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06FC2D822BB3B7F900B15E28 /* 有效的括号.swift */; };
 		06FC2D852BB3BAD300B15E28 /* 二叉树最近公共祖先.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06FC2D842BB3BAD300B15E28 /* 二叉树最近公共祖先.swift */; };
 		06FC2D872BB3C5CA00B15E28 /* 合并两个有序数组.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06FC2D862BB3C5CA00B15E28 /* 合并两个有序数组.swift */; };
@@ -99,6 +100,7 @@
 		06EDAA352BABC74900BCC224 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		06EDAA3C2BAC190100BCC224 /* Sort.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Sort.swift; sourceTree = "<group>"; };
 		06F2F1652BB6BF7100B6D830 /* 二分查找.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "二分查找.swift"; sourceTree = "<group>"; };
+		06F2F1672BB6CCAF00B6D830 /* 用栈实现队列.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "用栈实现队列.swift"; sourceTree = "<group>"; };
 		06FC2D822BB3B7F900B15E28 /* 有效的括号.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "有效的括号.swift"; sourceTree = "<group>"; };
 		06FC2D842BB3BAD300B15E28 /* 二叉树最近公共祖先.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "二叉树最近公共祖先.swift"; sourceTree = "<group>"; };
 		06FC2D862BB3C5CA00B15E28 /* 合并两个有序数组.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "合并两个有序数组.swift"; sourceTree = "<group>"; };
@@ -177,6 +179,7 @@
 				061A5EBD2BB6A04D00B52B66 /* 未实现-最长公共子序列.swift */,
 				061A5EBF2BB6AAF700B52B66 /* 删除排序链表中的重复元素.swift */,
 				06816CE42BB6BE6C008F0519 /* 二叉树的右视图.swift */,
+				06F2F1672BB6CCAF00B6D830 /* 用栈实现队列.swift */,
 				06F2F1652BB6BF7100B6D830 /* 二分查找.swift */,
 			);
 			path = testMacOS;
@@ -249,6 +252,7 @@
 				0616ECA22BB5746B00D35872 /* 环形链表2-环节点入口.swift in Sources */,
 				06FC2D872BB3C5CA00B15E28 /* 合并两个有序数组.swift in Sources */,
 				06C6C2962BB158230069AF70 /* 合并两个有序链表.swift in Sources */,
+				06F2F1682BB6CCB000B6D830 /* 用栈实现队列.swift in Sources */,
 				0616ECA02BB5630300D35872 /* 重排链表.swift in Sources */,
 				0616EC962BB5024700D35872 /* 环形链表.swift in Sources */,
 				06FC2D852BB3BAD300B15E28 /* 二叉树最近公共祖先.swift in Sources */,
