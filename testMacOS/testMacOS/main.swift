@@ -60,4 +60,5 @@ public class TreeNode {
 //GenerateParenthesisClass().main()
 //MaxSlidingWindowClass().main()
 //NextPermutationClass().main()
-LengthOfLISClass().main()
+//LengthOfLISClass().main()
+ZConvert().main()

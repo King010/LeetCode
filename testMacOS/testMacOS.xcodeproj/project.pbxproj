@@ -41,6 +41,7 @@
 		061A5EC02BB6AAF700B52B66 /* 删除排序链表中的重复元素.swift in Sources */ = {isa = PBXBuildFile; fileRef = 061A5EBF2BB6AAF700B52B66 /* 删除排序链表中的重复元素.swift */; };
 		067A6A932BB2D03400CBADBF /* 买卖股票的最佳时机.swift in Sources */ = {isa = PBXBuildFile; fileRef = 067A6A922BB2D03400CBADBF /* 买卖股票的最佳时机.swift */; };
 		06816CE52BB6BE6C008F0519 /* 二叉树的右视图.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06816CE42BB6BE6C008F0519 /* 二叉树的右视图.swift */; };
+		068B6E6E2BBAC5CD00404599 /* Z字形变换.swift in Sources */ = {isa = PBXBuildFile; fileRef = 068B6E6D2BBAC5CD00404599 /* Z字形变换.swift */; };
 		06A6C5F52BB2F61100BDDB53 /* 最长不重复子串.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06A6C5F42BB2F61100BDDB53 /* 最长不重复子串.swift */; };
 		06B247C02BB1A786001C9F6B /* TreeLevelOrder.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06B247BF2BB1A786001C9F6B /* TreeLevelOrder.swift */; };
 		06B247C22BB2631C001C9F6B /* 搜索旋转排序数组.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06B247C12BB2631C001C9F6B /* 搜索旋转排序数组.swift */; };
@@ -106,6 +107,7 @@
 		061A5EBF2BB6AAF700B52B66 /* 删除排序链表中的重复元素.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "删除排序链表中的重复元素.swift"; sourceTree = "<group>"; };
 		067A6A922BB2D03400CBADBF /* 买卖股票的最佳时机.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "买卖股票的最佳时机.swift"; sourceTree = "<group>"; };
 		06816CE42BB6BE6C008F0519 /* 二叉树的右视图.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "二叉树的右视图.swift"; sourceTree = "<group>"; };
+		068B6E6D2BBAC5CD00404599 /* Z字形变换.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Z字形变换.swift"; sourceTree = "<group>"; };
 		06A6C5F42BB2F61100BDDB53 /* 最长不重复子串.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "最长不重复子串.swift"; sourceTree = "<group>"; };
 		06B247BF2BB1A786001C9F6B /* TreeLevelOrder.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TreeLevelOrder.swift; sourceTree = "<group>"; };
 		06B247C12BB2631C001C9F6B /* 搜索旋转排序数组.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "搜索旋转排序数组.swift"; sourceTree = "<group>"; };
@@ -198,6 +200,7 @@
 				06F2F1672BB6CCAF00B6D830 /* 用栈实现队列.swift */,
 				06F2F1652BB6BF7100B6D830 /* 二分查找.swift */,
 				0616F4DF2BB7B258005791F0 /* 寻找两个正序数组的中位数.swift */,
+				068B6E6D2BBAC5CD00404599 /* Z字形变换.swift */,
 				0616F4E12BB822EA005791F0 /* 下一个排列.swift */,
 				0616F4E32BB82371005791F0 /* 爬楼梯.swift */,
 				0616F4E52BB8261E005791F0 /* x的算数平方根.swift */,
@@ -308,6 +311,7 @@
 				0616F4E22BB822EA005791F0 /* 下一个排列.swift in Sources */,
 				0616EC8B2BB42CB600D35872 /* 螺旋矩阵.swift in Sources */,
 				06FC2D832BB3B7F900B15E28 /* 有效的括号.swift in Sources */,
+				068B6E6E2BBAC5CD00404599 /* Z字形变换.swift in Sources */,
 				06A6C5F52BB2F61100BDDB53 /* 最长不重复子串.swift in Sources */,
 				0616EC9E2BB55B7B00D35872 /* 接雨水.swift in Sources */,
 				06C6C2982BB15B680069AF70 /* TwoSum.swift in Sources */,
