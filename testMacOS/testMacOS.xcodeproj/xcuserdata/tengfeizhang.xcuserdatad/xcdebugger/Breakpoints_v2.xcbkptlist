@@ -7,209 +7,49 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            uuid = "98D581C5-F1F2-4099-B70E-D7C76DFDBBF9"
+            uuid = "BB0A2E50-A263-4C6A-A701-2FB7236C6743"
             shouldBeEnabled = "Yes"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
-            filePath = "testMacOS/&#x5220;&#x9664;&#x6392;&#x5e8f;&#x94fe;&#x8868;&#x4e2d;&#x7684;&#x91cd;&#x590d;&#x5143;&#x7d20;.swift"
+            filePath = "testMacOS/&#x4e0b;&#x4e00;&#x4e2a;&#x6392;&#x5217;.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "71"
-            endingLineNumber = "71"
-            landmarkName = "main()"
+            startingLineNumber = "53"
+            endingLineNumber = "53"
+            landmarkName = "nextPermutation(_:)"
             landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "37D4D907-BB2D-48F0-BCF8-8D9EA3C9D3BB"
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "testMacOS/&#x4e8c;&#x5206;&#x67e5;&#x627e;.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "40"
-            endingLineNumber = "40"
-            landmarkName = "main()"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "687D5B47-88FA-47DA-873A-0B8228DE95CD"
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "testMacOS/&#x5bfb;&#x627e;&#x4e24;&#x4e2a;&#x6b63;&#x5e8f;&#x6570;&#x7ec4;&#x7684;&#x4e2d;&#x4f4d;&#x6570;.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "71"
-            endingLineNumber = "71"
-            landmarkName = "main()"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "7F91FC2F-7EC1-465D-B898-42DDCBC8B649"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "testMacOS/&#x5bfb;&#x627e;&#x4e24;&#x4e2a;&#x6b63;&#x5e8f;&#x6570;&#x7ec4;&#x7684;&#x4e2d;&#x4f4d;&#x6570;.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "46"
-            endingLineNumber = "46"
-            landmarkName = "findMedianSortedArrays(_:_:)"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "B23D7D22-A94C-4788-AB1A-EB4B210EC3FF"
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "testMacOS/&#x5bfb;&#x627e;&#x4e24;&#x4e2a;&#x6b63;&#x5e8f;&#x6570;&#x7ec4;&#x7684;&#x4e2d;&#x4f4d;&#x6570;.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "62"
-            endingLineNumber = "62"
-            landmarkName = "findMedianSortedArrays(_:_:)"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "0B76501A-E033-4336-AF2B-5AA0037AB529"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "testMacOS/&#x5bfb;&#x627e;&#x4e24;&#x4e2a;&#x6b63;&#x5e8f;&#x6570;&#x7ec4;&#x7684;&#x4e2d;&#x4f4d;&#x6570;.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "54"
-            endingLineNumber = "54"
-            landmarkName = "findMedianSortedArrays(_:_:)"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "B19FDE86-6F13-4EE3-8ED2-0F1754184DFB"
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "testMacOS/&#x62ec;&#x53f7;&#x751f;&#x6210;.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "37"
-            endingLineNumber = "37"
-            landmarkName = "main()"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "B842F740-57BE-4E85-8B89-8F5FC8B1C14A"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "testMacOS/&#x62ec;&#x53f7;&#x751f;&#x6210;.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "29"
-            endingLineNumber = "29"
-            landmarkName = "digui(_:_:_:)"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "2F364D60-BC3C-4A01-AF22-85E17A99AD4C"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "testMacOS/&#x62ec;&#x53f7;&#x751f;&#x6210;.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "24"
-            endingLineNumber = "24"
-            landmarkName = "digui(_:_:_:)"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "6E6EC2C9-7ABC-4697-8EE5-E8AD04460941"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "testMacOS/&#x62ec;&#x53f7;&#x751f;&#x6210;.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "20"
-            endingLineNumber = "20"
-            landmarkName = "digui(_:_:_:)"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "EC4B249A-ABA0-45AF-A156-E3354D2C4C9B"
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "testMacOS/&#x6ed1;&#x52a8;&#x7a97;&#x53e3;&#x7684;&#x6700;&#x5927;&#x503c;.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "78"
-            endingLineNumber = "78"
-            landmarkName = "main()"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "5CC0A130-77A0-4A1A-8280-D71B85F90B02"
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "testMacOS/&#x6ed1;&#x52a8;&#x7a97;&#x53e3;&#x7684;&#x6700;&#x5927;&#x503c;.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "41"
-            endingLineNumber = "41"
-            landmarkName = "maxSlidingWindow(_:_:)"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "CFC1D1CB-868A-4E91-8E8C-A3A53F787A23"
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "testMacOS/&#x6ed1;&#x52a8;&#x7a97;&#x53e3;&#x7684;&#x6700;&#x5927;&#x503c;.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "39"
-            endingLineNumber = "39"
-            landmarkName = "maxSlidingWindow(_:_:)"
-            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "BB0A2E50-A263-4C6A-A701-2FB7236C6743 - 6ef1b3ce46412ad6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "testMacOS.NextPermutationClass.nextPermutation(inout Swift.Array&lt;Swift.Int&gt;) -&gt; ()"
+                  moduleName = "testMacOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tengfeizhang/Desktop/%E6%B5%8B%E8%AF%95/LeetCode/testMacOS/testMacOS/%E4%B8%8B%E4%B8%80%E4%B8%AA%E6%8E%92%E5%88%97.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "53"
+                  endingLineNumber = "53"
+                  offsetFromSymbolStart = "876">
+               </Location>
+               <Location
+                  uuid = "BB0A2E50-A263-4C6A-A701-2FB7236C6743 - 6ef1b3ce46412ad6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "testMacOS.NextPermutationClass.nextPermutation(inout Swift.Array&lt;Swift.Int&gt;) -&gt; ()"
+                  moduleName = "testMacOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tengfeizhang/Desktop/%E6%B5%8B%E8%AF%95/LeetCode/testMacOS/testMacOS/%E4%B8%8B%E4%B8%80%E4%B8%AA%E6%8E%92%E5%88%97.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "53"
+                  endingLineNumber = "53"
+                  offsetFromSymbolStart = "872">
+               </Location>
+            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
    </Breakpoints>

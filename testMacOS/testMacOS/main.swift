@@ -58,4 +58,6 @@ public class TreeNode {
 //AddTwoNumbersClass().main()
 //MyAtoiClass().main()
 //GenerateParenthesisClass().main()
-MaxSlidingWindowClass().main()
+//MaxSlidingWindowClass().main()
+//NextPermutationClass().main()
+LengthOfLISClass().main()
