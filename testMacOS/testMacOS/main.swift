@@ -61,4 +61,7 @@ public class TreeNode {
 //MaxSlidingWindowClass().main()
 //NextPermutationClass().main()
 //LengthOfLISClass().main()
-ZConvert().main()
+//ZConvert().main()
+//MaxAreaClass().main()
+//LetterCombinationsClass().main()
+RotateArrayClass().main()

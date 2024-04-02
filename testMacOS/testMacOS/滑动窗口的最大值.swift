@@ -25,7 +25,7 @@ class MaxSlidingWindowClass: NSObject {
     func maxSlidingWindow(_ nums: [Int], _ k: Int) -> [Int] {
         var result = [Int]()
         var list = [Int]()
-        var right = 0, left = 0
+        var left = 0
         for right in 0..<nums.count {
             let len = right - left + 1
             while !list.isEmpty && list.last! < nums[right] {
