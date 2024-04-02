@@ -21,6 +21,8 @@ DerivedData/
 !default.perspectivev3
 xcuserdata/
 
+*.xcuserstate
+*.xcbkptlist
 ## Other
 *.moved-aside
 *.xccheckout
