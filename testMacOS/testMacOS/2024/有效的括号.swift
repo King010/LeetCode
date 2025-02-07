@@ -26,7 +26,7 @@ class KuoHaoIsValid: NSObject {
                     } else {
                         return false
                     }
-                } else {
+                } else {//不能删除，避免只输入右括号
                     stack.append(item)
                 }
             }

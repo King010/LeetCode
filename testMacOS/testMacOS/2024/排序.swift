@@ -23,6 +23,36 @@ class SortFunction {
         sort(key+1, r, &nums)
     }
     //5 2 3 1 6
+//    func parti(_ l: Int, _ r: Int, _ nums: inout [Int]) -> Int {
+//        let key = nums[l]
+//        var left = l
+//        var right = r
+//        while left < right {
+//            while nums[right] >= key && left < right {
+//                right -= 1
+//            }
+//            if left < right {
+//                nums[left] = nums[right]
+//                left += 1
+//            }
+//            while nums[left] <= key && left < right {
+//                left += 1
+//            }
+//            if left < right {
+//                nums[right] = nums[left]
+//                right -= 1
+//            }
+//        }
+//        nums[left] = key
+//        return left
+//        
+//    }
+    /**
+     取左边第一个为基准值key，从右往左找第一个比k小的值
+     再从左往右找第一个比k大的值
+     交换
+      出循环时left>=right，说明 4 2 3 5 1 6 |   4 2 3 1 5 6  |
+     */
     func parti(_ l: Int, _ r: Int, _ nums: inout [Int]) -> Int {
         let key = nums[l]
         var left = l
@@ -31,21 +61,16 @@ class SortFunction {
             while nums[right] >= key && left < right {
                 right -= 1
             }
-            if left < right {
-                nums[left] = nums[right]
-                left += 1
-            }
             while nums[left] <= key && left < right {
                 left += 1
             }
             if left < right {
-                nums[right] = nums[left]
-                right -= 1
+                nums.swapAt(left, right)
             }
         }
+        nums[l] = nums[left]
         nums[left] = key
         return left
-        
     }
     
 //    func parti(_ l: Int, _ r: Int, _ nums: inout [Int]) -> Int {
@@ -93,7 +118,7 @@ class SortFunction {
 //    }
     
     func main() {
-        let result = sortArray([5,2,3,1,6])
+        let result = sortArray([4,2,3,5,1,6])
         print(result)
     }
 

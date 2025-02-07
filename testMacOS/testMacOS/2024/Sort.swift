@@ -35,9 +35,6 @@ class Sort: NSObject {
             if nums[left] < key {
                 left += 1
             }
-//            if left >= right || left {
-//                break
-//            }
             nums.swapAt(left, right)
         }
         nums.swapAt(keyIndex, left)

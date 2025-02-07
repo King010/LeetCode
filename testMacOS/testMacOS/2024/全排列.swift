@@ -74,7 +74,7 @@ class ArrayPermuteClass: NSObject {
 //    }
 
     func main() {
-        let result = permute([1, 2])
+        let result = permute([1, 2, 3])
         print(result)
     }
 }

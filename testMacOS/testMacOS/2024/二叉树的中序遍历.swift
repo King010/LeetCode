@@ -7,7 +7,7 @@
 
 import Cocoa
 
-/**
+/** 4 8 9 5 2 6 3 1
  
                 1
             2       3
@@ -17,19 +17,44 @@ import Cocoa
                 1
                     2
                   3
- 
+ 1 2 4 5 8 9 3 6
  https://leetcode.cn/problems/binary-tree-inorder-traversal/
  */
 
 class InorderTraversal: NSObject {
     var res = [Int]()
     
+    
+    func houxu(_ root: TreeNode?) {
+        var stack = [TreeNode]()
+        var tmpRoot = root
+        var prev: TreeNode?
+        guard let root else { return }
+        while stack.count > 0 || tmpRoot != nil {
+            while tmpRoot != nil {
+                stack.append(tmpRoot!)
+                tmpRoot = tmpRoot?.left
+            }
+            var currentNode = stack.last
+            if currentNode?.right == nil || currentNode?.right === prev {
+                res.append(currentNode!.val)
+                prev = currentNode
+                currentNode = nil
+                stack.removeLast()
+            } else {
+                currentNode = currentNode?.right
+                stack.append(currentNode!.right!)
+            }
+            tmpRoot = currentNode
+        }
+    }
+    
     func inorderTraversal(_ root: TreeNode?) -> [Int] {
-        feidigui(root)
+        zhongxu(root)
         return res
     }
     
-    func feidigui(_ root: TreeNode?) {
+    func zhongxu(_ root: TreeNode?) {
         var stack = [TreeNode]()
         var tmpRoot = root
         guard let root else { return }
@@ -41,6 +66,22 @@ class InorderTraversal: NSObject {
             }
             var currentNode = stack.last
             res.append(stack.last!.val)
+            stack.removeLast()
+            tmpRoot = currentNode?.right
+        }
+    }
+    
+    func qianxu(_ root: TreeNode?) {
+        var stack = [TreeNode]()
+        var tmpRoot = root
+        guard let root else { return }
+        while stack.count > 0 || tmpRoot != nil {
+            while tmpRoot != nil {
+                res.append(tmpRoot!.val)
+                stack.append(tmpRoot!)
+                tmpRoot = tmpRoot?.left
+            }
+            var currentNode = stack.last
             stack.removeLast()
             tmpRoot = currentNode?.right
         }

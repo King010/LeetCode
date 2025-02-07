@@ -1,23 +1,13 @@
 //
-//  删除排序链表中的重复元素.swift
+//  从未排序的链表中移除重复元素.swift
 //  testMacOS
 //
-//  Created by 腾飞张 on 2024/3/29.
+//  Created by 腾飞张 on 2025/2/7.
 //
 
-import Cocoa
+import Foundation
 
-/**
- 输入：head = [1,2,3,3,4,4,5]
- 输出：[1,2,5]
-
- 输入：head = [1,1,1,3,4,5]
- 输出：[3,4,5]
-
- https://leetcode.cn/problems/remove-duplicates-from-sorted-list-ii/description/
- */
-
-class DeleteDuplicatesClass: NSObject {
+class DeleteUnSortDuplicatesClass: NSObject {
     func deleteDuplicates(_ head: ListNode?) -> ListNode? {
         if head == nil {
             return nil
@@ -25,7 +15,6 @@ class DeleteDuplicatesClass: NSObject {
         var head = head
         var currentNode = head
         var preNode: ListNode?
-        var returnNode: ListNode?
 
         while currentNode != nil {
             var nextNode = currentNode?.next
@@ -55,18 +44,18 @@ class DeleteDuplicatesClass: NSObject {
         let node1 = ListNode(1)
         let node2 = ListNode(2)
         let node3 = ListNode(3)
-        let node4 = ListNode(4)
-        let node5 = ListNode(5)
-
-        let node31 = ListNode(3)
-        let node41 = ListNode(4)
-        let node42 = ListNode(4)
+        let node4 = ListNode(2)
+//        let node5 = ListNode(5)
+//
+//        let node31 = ListNode(3)
+//        let node41 = ListNode(4)
+//        let node42 = ListNode(4)
 
         node1.next = node2
         node2.next = node3
-        node3.next = node31
-        node31.next = node4
-        node4.next = node5
+        node3.next = node4
+//        node31.next = node4
+//        node4.next = node5
 
         let result = deleteDuplicates(node1)
         print(result)

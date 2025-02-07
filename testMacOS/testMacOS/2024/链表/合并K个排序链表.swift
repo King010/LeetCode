@@ -35,7 +35,7 @@ class MergeKListsClass: NSObject {
     
     func mergeTwoLists(_ list1: ListNode?, _ list2: ListNode?) -> ListNode? {
         var newHead: ListNode? = ListNode(0)
-        var returnHead = newHead
+        let returnHead = newHead
         var newList1 = list1
         var newList2 = list2
         while newList1 != nil, newList2 != nil {

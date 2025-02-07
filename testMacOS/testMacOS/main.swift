@@ -64,4 +64,7 @@ public class TreeNode {
 //ZConvert().main()
 //MaxAreaClass().main()
 //LetterCombinationsClass().main()
-RotateArrayClass().main()
+//RotateArrayClass().main()
+//SortFunction().main()
+//ArrayAddAndDelete().main()
+ListDecomposition().main()
