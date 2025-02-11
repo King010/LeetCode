@@ -67,4 +67,5 @@ public class TreeNode {
 //RotateArrayClass().main()
 //SortFunction().main()
 //ArrayAddAndDelete().main()
-ListDecomposition().main()
+//ListDecomposition().main()
+LuoXuanJuzhen2().main()
