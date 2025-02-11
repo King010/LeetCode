@@ -72,6 +72,8 @@
 		06FC2D892BB3D05B00B15E28 /* 全排列.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06FC2D882BB3D05B00B15E28 /* 全排列.swift */; };
 		06FC2D8B2BB3F7AB00B15E28 /* 二叉树的锯齿形层序遍历.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06FC2D8A2BB3F7AB00B15E28 /* 二叉树的锯齿形层序遍历.swift */; };
 		06FC2D8D2BB40E0A00B15E28 /* 翻转链表2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06FC2D8C2BB40E0A00B15E28 /* 翻转链表2.swift */; };
+		06FE357C2D5A434A00ABB1E8 /* 删除有序数组中的重复项.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06FE357B2D5A434A00ABB1E8 /* 删除有序数组中的重复项.swift */; };
+		06FE357E2D5A4B6C00ABB1E8 /* 最小覆盖子串.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06FE357D2D5A4B6C00ABB1E8 /* 最小覆盖子串.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -153,6 +155,8 @@
 		06FC2D882BB3D05B00B15E28 /* 全排列.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "全排列.swift"; sourceTree = "<group>"; };
 		06FC2D8A2BB3F7AB00B15E28 /* 二叉树的锯齿形层序遍历.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "二叉树的锯齿形层序遍历.swift"; sourceTree = "<group>"; };
 		06FC2D8C2BB40E0A00B15E28 /* 翻转链表2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "翻转链表2.swift"; sourceTree = "<group>"; };
+		06FE357B2D5A434A00ABB1E8 /* 删除有序数组中的重复项.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "删除有序数组中的重复项.swift"; sourceTree = "<group>"; };
+		06FE357D2D5A4B6C00ABB1E8 /* 最小覆盖子串.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "最小覆盖子串.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -197,6 +201,8 @@
 				06250BD72D54C9690015A222 /* 单链表的分解.swift */,
 				06250BDC2D55E74B0015A222 /* 从未排序的链表中移除重复元素.swift */,
 				0662BDD42D5AEF9800B6EE2F /* 螺旋矩阵2.swift */,
+				06FE357B2D5A434A00ABB1E8 /* 删除有序数组中的重复项.swift */,
+				06FE357D2D5A4B6C00ABB1E8 /* 最小覆盖子串.swift */,
 			);
 			path = 2025;
 			sourceTree = "<group>";
@@ -379,6 +385,7 @@
 				0616ECA82BB656E100D35872 /* 删除链表的倒数第K个节点.swift in Sources */,
 				064DBC322BBBB27600DEB51E /* 电话号码的数字组合.swift in Sources */,
 				064DBC2E2BBBA6ED00DEB51E /* 不同的二叉搜索树2.swift in Sources */,
+				06FE357E2D5A4B6C00ABB1E8 /* 最小覆盖子串.swift in Sources */,
 				0616F4E62BB8261E005791F0 /* x的算数平方根.swift in Sources */,
 				0616ECAA2BB659F200D35872 /* 编辑距离.swift in Sources */,
 				06B247C22BB2631C001C9F6B /* 搜索旋转排序数组.swift in Sources */,
@@ -396,6 +403,7 @@
 				06226A9D2BBC0ED400C2F716 /* 字母异位词分组.swift in Sources */,
 				0616EC8B2BB42CB600D35872 /* 螺旋矩阵.swift in Sources */,
 				06FC2D832BB3B7F900B15E28 /* 有效的括号.swift in Sources */,
+				06FE357C2D5A434A00ABB1E8 /* 删除有序数组中的重复项.swift in Sources */,
 				068B6E6E2BBAC5CD00404599 /* Z字形变换.swift in Sources */,
 				06A6C5F52BB2F61100BDDB53 /* 最长不重复子串.swift in Sources */,
 				06226A9F2BBC152200C2F716 /* 跳跃游戏.swift in Sources */,
