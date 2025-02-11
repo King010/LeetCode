@@ -51,10 +51,11 @@
 		064DBC2E2BBBA6ED00DEB51E /* 不同的二叉搜索树2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 064DBC2D2BBBA6ED00DEB51E /* 不同的二叉搜索树2.swift */; };
 		064DBC302BBBAAED00DEB51E /* 盛最多水的容器.swift in Sources */ = {isa = PBXBuildFile; fileRef = 064DBC2F2BBBAAED00DEB51E /* 盛最多水的容器.swift */; };
 		064DBC322BBBB27600DEB51E /* 电话号码的数字组合.swift in Sources */ = {isa = PBXBuildFile; fileRef = 064DBC312BBBB27600DEB51E /* 电话号码的数字组合.swift */; };
+		0662BDD52D5AEF9800B6EE2F /* 螺旋矩阵2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0662BDD42D5AEF9800B6EE2F /* 螺旋矩阵2.swift */; };
 		067A6A932BB2D03400CBADBF /* 买卖股票的最佳时机.swift in Sources */ = {isa = PBXBuildFile; fileRef = 067A6A922BB2D03400CBADBF /* 买卖股票的最佳时机.swift */; };
 		06816CE52BB6BE6C008F0519 /* 二叉树的右视图.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06816CE42BB6BE6C008F0519 /* 二叉树的右视图.swift */; };
-		0689BAAC2D40FB380056013F /* 数组增删改查O(1).swift in Sources */ = {isa = PBXBuildFile; fileRef = 0689BAAB2D40FB380056013F /* 数组增删改查O(1).swift */; };
 		06838F8A2BBC40DA001FDA46 /* 根据前序和后序构造二叉树.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06838F892BBC40DA001FDA46 /* 根据前序和后序构造二叉树.swift */; };
+		0689BAAC2D40FB380056013F /* 数组增删改查O(1).swift in Sources */ = {isa = PBXBuildFile; fileRef = 0689BAAB2D40FB380056013F /* 数组增删改查O(1).swift */; };
 		068B6E6E2BBAC5CD00404599 /* Z字形变换.swift in Sources */ = {isa = PBXBuildFile; fileRef = 068B6E6D2BBAC5CD00404599 /* Z字形变换.swift */; };
 		06A6C5F52BB2F61100BDDB53 /* 最长不重复子串.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06A6C5F42BB2F61100BDDB53 /* 最长不重复子串.swift */; };
 		06B247C02BB1A786001C9F6B /* TreeLevelOrder.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06B247BF2BB1A786001C9F6B /* TreeLevelOrder.swift */; };
@@ -131,10 +132,11 @@
 		064DBC2D2BBBA6ED00DEB51E /* 不同的二叉搜索树2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "不同的二叉搜索树2.swift"; sourceTree = "<group>"; };
 		064DBC2F2BBBAAED00DEB51E /* 盛最多水的容器.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "盛最多水的容器.swift"; sourceTree = "<group>"; };
 		064DBC312BBBB27600DEB51E /* 电话号码的数字组合.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "电话号码的数字组合.swift"; sourceTree = "<group>"; };
+		0662BDD42D5AEF9800B6EE2F /* 螺旋矩阵2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "螺旋矩阵2.swift"; sourceTree = "<group>"; };
 		067A6A922BB2D03400CBADBF /* 买卖股票的最佳时机.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "买卖股票的最佳时机.swift"; sourceTree = "<group>"; };
 		06816CE42BB6BE6C008F0519 /* 二叉树的右视图.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "二叉树的右视图.swift"; sourceTree = "<group>"; };
-		0689BAAB2D40FB380056013F /* 数组增删改查O(1).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "数组增删改查O(1).swift"; sourceTree = "<group>"; };
 		06838F892BBC40DA001FDA46 /* 根据前序和后序构造二叉树.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "根据前序和后序构造二叉树.swift"; sourceTree = "<group>"; };
+		0689BAAB2D40FB380056013F /* 数组增删改查O(1).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "数组增删改查O(1).swift"; sourceTree = "<group>"; };
 		068B6E6D2BBAC5CD00404599 /* Z字形变换.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Z字形变换.swift"; sourceTree = "<group>"; };
 		06A6C5F42BB2F61100BDDB53 /* 最长不重复子串.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "最长不重复子串.swift"; sourceTree = "<group>"; };
 		06B247BF2BB1A786001C9F6B /* TreeLevelOrder.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TreeLevelOrder.swift; sourceTree = "<group>"; };
@@ -196,6 +198,7 @@
 				0689BAAB2D40FB380056013F /* 数组增删改查O(1).swift */,
 				06250BD72D54C9690015A222 /* 单链表的分解.swift */,
 				06250BDC2D55E74B0015A222 /* 从未排序的链表中移除重复元素.swift */,
+				0662BDD42D5AEF9800B6EE2F /* 螺旋矩阵2.swift */,
 			);
 			path = 2025;
 			sourceTree = "<group>";
@@ -345,6 +348,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				061A5EBE2BB6A04D00B52B66 /* 最长公共子序列.swift in Sources */,
+				0662BDD52D5AEF9800B6EE2F /* 螺旋矩阵2.swift in Sources */,
 				06816CE52BB6BE6C008F0519 /* 二叉树的右视图.swift in Sources */,
 				06226A9B2BBC0AC300C2F716 /* 旋转图像.swift in Sources */,
 				0616F4E42BB82371005791F0 /* 爬楼梯.swift in Sources */,
