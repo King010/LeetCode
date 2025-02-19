@@ -69,5 +69,7 @@ public class TreeNode {
 //ArrayAddAndDelete().main()
 //ListDecomposition().main()
 //RemoveArrayDuplicates().main()
-MinWindowClass().main()
+//MinWindowClass().main()
 //LuoXuanJuzhen2().main()
+//StringCheckInclusion().main()
+LongestOnesClass().main()

@@ -53,6 +53,8 @@
 		064DBC322BBBB27600DEB51E /* 电话号码的数字组合.swift in Sources */ = {isa = PBXBuildFile; fileRef = 064DBC312BBBB27600DEB51E /* 电话号码的数字组合.swift */; };
 		0662BDD52D5AEF9800B6EE2F /* 螺旋矩阵2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0662BDD42D5AEF9800B6EE2F /* 螺旋矩阵2.swift */; };
 		067A6A932BB2D03400CBADBF /* 买卖股票的最佳时机.swift in Sources */ = {isa = PBXBuildFile; fileRef = 067A6A922BB2D03400CBADBF /* 买卖股票的最佳时机.swift */; };
+		067AD2FE2D65EA3B00EA7BB8 /* 最大连续1的个数 III.swift in Sources */ = {isa = PBXBuildFile; fileRef = 067AD2FD2D65EA3B00EA7BB8 /* 最大连续1的个数 III.swift */; };
+		067D690B2D5EF14300965852 /* 字符串的排列.swift in Sources */ = {isa = PBXBuildFile; fileRef = 067D690A2D5EF14300965852 /* 字符串的排列.swift */; };
 		06816CE52BB6BE6C008F0519 /* 二叉树的右视图.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06816CE42BB6BE6C008F0519 /* 二叉树的右视图.swift */; };
 		0689BAAC2D40FB380056013F /* 数组增删改查O(1).swift in Sources */ = {isa = PBXBuildFile; fileRef = 0689BAAB2D40FB380056013F /* 数组增删改查O(1).swift */; };
 		068B6E6E2BBAC5CD00404599 /* Z字形变换.swift in Sources */ = {isa = PBXBuildFile; fileRef = 068B6E6D2BBAC5CD00404599 /* Z字形变换.swift */; };
@@ -135,6 +137,8 @@
 		064DBC312BBBB27600DEB51E /* 电话号码的数字组合.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "电话号码的数字组合.swift"; sourceTree = "<group>"; };
 		0662BDD42D5AEF9800B6EE2F /* 螺旋矩阵2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "螺旋矩阵2.swift"; sourceTree = "<group>"; };
 		067A6A922BB2D03400CBADBF /* 买卖股票的最佳时机.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "买卖股票的最佳时机.swift"; sourceTree = "<group>"; };
+		067AD2FD2D65EA3B00EA7BB8 /* 最大连续1的个数 III.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "最大连续1的个数 III.swift"; sourceTree = "<group>"; };
+		067D690A2D5EF14300965852 /* 字符串的排列.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "字符串的排列.swift"; sourceTree = "<group>"; };
 		06816CE42BB6BE6C008F0519 /* 二叉树的右视图.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "二叉树的右视图.swift"; sourceTree = "<group>"; };
 		0689BAAB2D40FB380056013F /* 数组增删改查O(1).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "数组增删改查O(1).swift"; sourceTree = "<group>"; };
 		068B6E6D2BBAC5CD00404599 /* Z字形变换.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Z字形变换.swift"; sourceTree = "<group>"; };
@@ -203,6 +207,8 @@
 				0662BDD42D5AEF9800B6EE2F /* 螺旋矩阵2.swift */,
 				06FE357B2D5A434A00ABB1E8 /* 删除有序数组中的重复项.swift */,
 				06FE357D2D5A4B6C00ABB1E8 /* 最小覆盖子串.swift */,
+				067D690A2D5EF14300965852 /* 字符串的排列.swift */,
+				067AD2FD2D65EA3B00EA7BB8 /* 最大连续1的个数 III.swift */,
 			);
 			path = 2025;
 			sourceTree = "<group>";
@@ -361,6 +367,7 @@
 				0616EC922BB500EE00D35872 /* 最大子数组合.swift in Sources */,
 				067A6A932BB2D03400CBADBF /* 买卖股票的最佳时机.swift in Sources */,
 				064DBC302BBBAAED00DEB51E /* 盛最多水的容器.swift in Sources */,
+				067D690B2D5EF14300965852 /* 字符串的排列.swift in Sources */,
 				0616ECA22BB5746B00D35872 /* 环形链表2-环节点入口.swift in Sources */,
 				0616F4EA2BB8FCF2005791F0 /* 字符串转换整数.swift in Sources */,
 				06FC2D872BB3C5CA00B15E28 /* 合并两个有序数组.swift in Sources */,
@@ -385,6 +392,7 @@
 				0616ECA82BB656E100D35872 /* 删除链表的倒数第K个节点.swift in Sources */,
 				064DBC322BBBB27600DEB51E /* 电话号码的数字组合.swift in Sources */,
 				064DBC2E2BBBA6ED00DEB51E /* 不同的二叉搜索树2.swift in Sources */,
+				067AD2FE2D65EA3B00EA7BB8 /* 最大连续1的个数 III.swift in Sources */,
 				06FE357E2D5A4B6C00ABB1E8 /* 最小覆盖子串.swift in Sources */,
 				0616F4E62BB8261E005791F0 /* x的算数平方根.swift in Sources */,
 				0616ECAA2BB659F200D35872 /* 编辑距离.swift in Sources */,
