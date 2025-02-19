@@ -7,6 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0606B7D32D637ABC00FE9548 /* 找所有字母异位词.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0606B7D22D637ABC00FE9548 /* 找所有字母异位词.swift */; };
+		0606B7D52D63816700FE9548 /* 最长不重复子串第二版.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0606B7D42D63816700FE9548 /* 最长不重复子串第二版.swift */; };
+		0606B7D72D64CB1A00FE9548 /* 将 x 减到 0 的最小操作数.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0606B7D62D64CB1A00FE9548 /* 将 x 减到 0 的最小操作数.swift */; };
 		0616EC8B2BB42CB600D35872 /* 螺旋矩阵.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0616EC8A2BB42CB600D35872 /* 螺旋矩阵.swift */; };
 		0616EC8E2BB5003D00D35872 /* K个一组反转链表.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0616EC8D2BB5003D00D35872 /* K个一组反转链表.swift */; };
 		0616EC902BB5007E00D35872 /* LRU缓存.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0616EC8F2BB5007E00D35872 /* LRU缓存.swift */; };
@@ -91,6 +94,9 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		0606B7D22D637ABC00FE9548 /* 找所有字母异位词.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "找所有字母异位词.swift"; sourceTree = "<group>"; };
+		0606B7D42D63816700FE9548 /* 最长不重复子串第二版.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "最长不重复子串第二版.swift"; sourceTree = "<group>"; };
+		0606B7D62D64CB1A00FE9548 /* 将 x 减到 0 的最小操作数.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "将 x 减到 0 的最小操作数.swift"; sourceTree = "<group>"; };
 		0616EC8A2BB42CB600D35872 /* 螺旋矩阵.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "螺旋矩阵.swift"; sourceTree = "<group>"; };
 		0616EC8D2BB5003D00D35872 /* K个一组反转链表.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "K个一组反转链表.swift"; sourceTree = "<group>"; };
 		0616EC8F2BB5007E00D35872 /* LRU缓存.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LRU缓存.swift"; sourceTree = "<group>"; };
@@ -209,6 +215,9 @@
 				06FE357D2D5A4B6C00ABB1E8 /* 最小覆盖子串.swift */,
 				067D690A2D5EF14300965852 /* 字符串的排列.swift */,
 				067AD2FD2D65EA3B00EA7BB8 /* 最大连续1的个数 III.swift */,
+				0606B7D22D637ABC00FE9548 /* 找所有字母异位词.swift */,
+				0606B7D42D63816700FE9548 /* 最长不重复子串第二版.swift */,
+				0606B7D62D64CB1A00FE9548 /* 将 x 减到 0 的最小操作数.swift */,
 			);
 			path = 2025;
 			sourceTree = "<group>";
@@ -359,6 +368,7 @@
 				061A5EBE2BB6A04D00B52B66 /* 最长公共子序列.swift in Sources */,
 				0662BDD52D5AEF9800B6EE2F /* 螺旋矩阵2.swift in Sources */,
 				06816CE52BB6BE6C008F0519 /* 二叉树的右视图.swift in Sources */,
+				0606B7D72D64CB1A00FE9548 /* 将 x 减到 0 的最小操作数.swift in Sources */,
 				06226A9B2BBC0AC300C2F716 /* 旋转图像.swift in Sources */,
 				0616F4E42BB82371005791F0 /* 爬楼梯.swift in Sources */,
 				0616F4E82BB8F5BB005791F0 /* 两数相加.swift in Sources */,
@@ -371,6 +381,7 @@
 				0616ECA22BB5746B00D35872 /* 环形链表2-环节点入口.swift in Sources */,
 				0616F4EA2BB8FCF2005791F0 /* 字符串转换整数.swift in Sources */,
 				06FC2D872BB3C5CA00B15E28 /* 合并两个有序数组.swift in Sources */,
+				0606B7D52D63816700FE9548 /* 最长不重复子串第二版.swift in Sources */,
 				06C6C2962BB158230069AF70 /* 合并两个有序链表.swift in Sources */,
 				06F2F1682BB6CCB000B6D830 /* 用栈实现队列.swift in Sources */,
 				0616ECA02BB5630300D35872 /* 重排链表.swift in Sources */,
@@ -385,6 +396,7 @@
 				0616F4DA2BB4470F005791F0 /* 排序.swift in Sources */,
 				0616ECA62BB651CD00D35872 /* 二叉树中的最大路径合.swift in Sources */,
 				06EDAA362BABC74900BCC224 /* main.swift in Sources */,
+				0606B7D32D637ABC00FE9548 /* 找所有字母异位词.swift in Sources */,
 				0616F4EE2BB96684005791F0 /* 滑动窗口的最大值.swift in Sources */,
 				0616EC982BB502B700D35872 /* 相交链表.swift in Sources */,
 				06226A992BBC051B00C2F716 /* 组合总数.swift in Sources */,

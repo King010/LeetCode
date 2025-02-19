@@ -72,4 +72,7 @@ public class TreeNode {
 //MinWindowClass().main()
 //LuoXuanJuzhen2().main()
 //StringCheckInclusion().main()
-LongestOnesClass().main()
+//LongestOnesClass().main()
+//FindAnagramsClass().main()
+//LengthOfLongestSubstring2().main()
+MinOperationsClass().main()
