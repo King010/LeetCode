@@ -75,4 +75,5 @@ public class TreeNode {
 //LongestOnesClass().main()
 //FindAnagramsClass().main()
 //LengthOfLongestSubstring2().main()
-MinOperationsClass().main()
+//MinOperationsClass().main()
+CharacterReplacementClass().main()

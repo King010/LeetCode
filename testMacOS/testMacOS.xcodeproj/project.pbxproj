@@ -55,6 +55,8 @@
 		064DBC302BBBAAED00DEB51E /* 盛最多水的容器.swift in Sources */ = {isa = PBXBuildFile; fileRef = 064DBC2F2BBBAAED00DEB51E /* 盛最多水的容器.swift */; };
 		064DBC322BBBB27600DEB51E /* 电话号码的数字组合.swift in Sources */ = {isa = PBXBuildFile; fileRef = 064DBC312BBBB27600DEB51E /* 电话号码的数字组合.swift */; };
 		0662BDD52D5AEF9800B6EE2F /* 螺旋矩阵2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0662BDD42D5AEF9800B6EE2F /* 螺旋矩阵2.swift */; };
+		0671D1A72D6F3FE6001B2E72 /* 长度最小的子数组.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0671D1A62D6F3FE6001B2E72 /* 长度最小的子数组.swift */; };
+		0671D1A92D6F45FD001B2E72 /* 至少有 K 个重复字符的最长子串.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0671D1A82D6F45FD001B2E72 /* 至少有 K 个重复字符的最长子串.swift */; };
 		067A6A932BB2D03400CBADBF /* 买卖股票的最佳时机.swift in Sources */ = {isa = PBXBuildFile; fileRef = 067A6A922BB2D03400CBADBF /* 买卖股票的最佳时机.swift */; };
 		067AD2FE2D65EA3B00EA7BB8 /* 最大连续1的个数 III.swift in Sources */ = {isa = PBXBuildFile; fileRef = 067AD2FD2D65EA3B00EA7BB8 /* 最大连续1的个数 III.swift */; };
 		067D690B2D5EF14300965852 /* 字符串的排列.swift in Sources */ = {isa = PBXBuildFile; fileRef = 067D690A2D5EF14300965852 /* 字符串的排列.swift */; };
@@ -142,6 +144,8 @@
 		064DBC2F2BBBAAED00DEB51E /* 盛最多水的容器.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "盛最多水的容器.swift"; sourceTree = "<group>"; };
 		064DBC312BBBB27600DEB51E /* 电话号码的数字组合.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "电话号码的数字组合.swift"; sourceTree = "<group>"; };
 		0662BDD42D5AEF9800B6EE2F /* 螺旋矩阵2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "螺旋矩阵2.swift"; sourceTree = "<group>"; };
+		0671D1A62D6F3FE6001B2E72 /* 长度最小的子数组.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "长度最小的子数组.swift"; sourceTree = "<group>"; };
+		0671D1A82D6F45FD001B2E72 /* 至少有 K 个重复字符的最长子串.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "至少有 K 个重复字符的最长子串.swift"; sourceTree = "<group>"; };
 		067A6A922BB2D03400CBADBF /* 买卖股票的最佳时机.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "买卖股票的最佳时机.swift"; sourceTree = "<group>"; };
 		067AD2FD2D65EA3B00EA7BB8 /* 最大连续1的个数 III.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "最大连续1的个数 III.swift"; sourceTree = "<group>"; };
 		067D690A2D5EF14300965852 /* 字符串的排列.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "字符串的排列.swift"; sourceTree = "<group>"; };
@@ -218,6 +222,8 @@
 				0606B7D22D637ABC00FE9548 /* 找所有字母异位词.swift */,
 				0606B7D42D63816700FE9548 /* 最长不重复子串第二版.swift */,
 				0606B7D62D64CB1A00FE9548 /* 将 x 减到 0 的最小操作数.swift */,
+				0671D1A82D6F45FD001B2E72 /* 至少有 K 个重复字符的最长子串.swift */,
+				0671D1A62D6F3FE6001B2E72 /* 长度最小的子数组.swift */,
 			);
 			path = 2025;
 			sourceTree = "<group>";
@@ -368,6 +374,7 @@
 				061A5EBE2BB6A04D00B52B66 /* 最长公共子序列.swift in Sources */,
 				0662BDD52D5AEF9800B6EE2F /* 螺旋矩阵2.swift in Sources */,
 				06816CE52BB6BE6C008F0519 /* 二叉树的右视图.swift in Sources */,
+				0671D1A72D6F3FE6001B2E72 /* 长度最小的子数组.swift in Sources */,
 				0606B7D72D64CB1A00FE9548 /* 将 x 减到 0 的最小操作数.swift in Sources */,
 				06226A9B2BBC0AC300C2F716 /* 旋转图像.swift in Sources */,
 				0616F4E42BB82371005791F0 /* 爬楼梯.swift in Sources */,
@@ -377,6 +384,7 @@
 				0616EC922BB500EE00D35872 /* 最大子数组合.swift in Sources */,
 				067A6A932BB2D03400CBADBF /* 买卖股票的最佳时机.swift in Sources */,
 				064DBC302BBBAAED00DEB51E /* 盛最多水的容器.swift in Sources */,
+				0671D1A92D6F45FD001B2E72 /* 至少有 K 个重复字符的最长子串.swift in Sources */,
 				067D690B2D5EF14300965852 /* 字符串的排列.swift in Sources */,
 				0616ECA22BB5746B00D35872 /* 环形链表2-环节点入口.swift in Sources */,
 				0616F4EA2BB8FCF2005791F0 /* 字符串转换整数.swift in Sources */,

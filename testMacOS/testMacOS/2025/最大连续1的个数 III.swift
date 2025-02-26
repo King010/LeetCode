@@ -23,13 +23,14 @@ class LongestOnesClass: NSObject {
         var right = 0
         var reverseCount = 0
         var maxLength = -1
+        var reverseIndexArray = [Int]()
         while right < nums.count {
             let currentRightValue = nums[right]
-            right += 1
             if currentRightValue == 0 {
                 reverseCount += 1
+                reverseIndexArray.append(right)
             }
-
+            right += 1
             if reverseCount == k + 1, left < right {
                 maxLength = max(maxLength, right - left)
                 left = right
