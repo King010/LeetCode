@@ -21,7 +21,7 @@ import Cocoa
  https://leetcode.cn/problems/minimum-size-subarray-sum/description/
  */
 
-class CharacterReplacementClass: NSObject {
+class MinSubArrayLenClass: NSObject {
     func minSubArrayLen(_ target: Int, _ nums: [Int]) -> Int {
         var left = 0, right = 0
         var windowSum = 0

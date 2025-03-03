@@ -29,6 +29,20 @@ public class TreeNode {
     }
 }
 
+public class Node {
+    public var val: Int
+    public var left: Node?
+    public var right: Node?
+    public var next: Node?
+    public init() { self.val = 0; self.left = nil; self.right = nil; self.next = nil;}
+    public init(_ val: Int) { self.val = 0; self.left = nil; self.right = nil; self.next = nil;}
+    public init(_ val: Int, _ left: Node?, _ right: Node?, _ next: Node?) {
+        self.val = val
+        self.left = left
+        self.right = right
+        self.next = next
+    }
+}
 
 //Sort().main()
 //LongestPalindromeClass().main()
@@ -72,7 +86,6 @@ public class TreeNode {
 //MinWindowClass().main()
 //LuoXuanJuzhen2().main()
 //StringCheckInclusion().main()
-//LongestOnesClass().main()
 //FindAnagramsClass().main()
 //LengthOfLongestSubstring2().main()
 //MinOperationsClass().main()
@@ -82,3 +95,6 @@ public class TreeNode {
 //IPorderBuildTreeClass().main()
 //ConstructFromPrePostClass().main()
 TreeSerializeDeserializeClass().main()
+//LongestOnesClass().main()
+//CharacterReplacementClass().main()
+ContainsNearbyDuplicate().main()

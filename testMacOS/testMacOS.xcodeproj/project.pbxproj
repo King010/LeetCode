@@ -10,6 +10,11 @@
 		0606B7D32D637ABC00FE9548 /* 找所有字母异位词.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0606B7D22D637ABC00FE9548 /* 找所有字母异位词.swift */; };
 		0606B7D52D63816700FE9548 /* 最长不重复子串第二版.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0606B7D42D63816700FE9548 /* 最长不重复子串第二版.swift */; };
 		0606B7D72D64CB1A00FE9548 /* 将 x 减到 0 的最小操作数.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0606B7D62D64CB1A00FE9548 /* 将 x 减到 0 的最小操作数.swift */; };
+		0606B7D92D6CB5B200FE9548 /* 替换后的最长重复字符.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0606B7D82D6CB5B200FE9548 /* 替换后的最长重复字符.swift */; };
+		0606B7DB2D6CBF8F00FE9548 /* 存在重复元素2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0606B7DA2D6CBF8F00FE9548 /* 存在重复元素2.swift */; };
+		0606B7DD2D6E0BDA00FE9548 /* 存在重复元素3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0606B7DC2D6E0BDA00FE9548 /* 存在重复元素3.swift */; };
+		0606B7DF2D732E4A00FE9548 /* 填充节点的右侧指针.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0606B7DE2D732E4A00FE9548 /* 填充节点的右侧指针.swift */; };
+		0606B7E12D733BDA00FE9548 /* 二叉树展开为链表.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0606B7E02D733BDA00FE9548 /* 二叉树展开为链表.swift */; };
 		0616EC8B2BB42CB600D35872 /* 螺旋矩阵.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0616EC8A2BB42CB600D35872 /* 螺旋矩阵.swift */; };
 		0616EC8E2BB5003D00D35872 /* K个一组反转链表.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0616EC8D2BB5003D00D35872 /* K个一组反转链表.swift */; };
 		0616EC902BB5007E00D35872 /* LRU缓存.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0616EC8F2BB5007E00D35872 /* LRU缓存.swift */; };
@@ -105,6 +110,11 @@
 		0606B7D22D637ABC00FE9548 /* 找所有字母异位词.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "找所有字母异位词.swift"; sourceTree = "<group>"; };
 		0606B7D42D63816700FE9548 /* 最长不重复子串第二版.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "最长不重复子串第二版.swift"; sourceTree = "<group>"; };
 		0606B7D62D64CB1A00FE9548 /* 将 x 减到 0 的最小操作数.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "将 x 减到 0 的最小操作数.swift"; sourceTree = "<group>"; };
+		0606B7D82D6CB5B200FE9548 /* 替换后的最长重复字符.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "替换后的最长重复字符.swift"; sourceTree = "<group>"; };
+		0606B7DA2D6CBF8F00FE9548 /* 存在重复元素2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "存在重复元素2.swift"; sourceTree = "<group>"; };
+		0606B7DC2D6E0BDA00FE9548 /* 存在重复元素3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "存在重复元素3.swift"; sourceTree = "<group>"; };
+		0606B7DE2D732E4A00FE9548 /* 填充节点的右侧指针.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "填充节点的右侧指针.swift"; sourceTree = "<group>"; };
+		0606B7E02D733BDA00FE9548 /* 二叉树展开为链表.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "二叉树展开为链表.swift"; sourceTree = "<group>"; };
 		0616EC8A2BB42CB600D35872 /* 螺旋矩阵.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "螺旋矩阵.swift"; sourceTree = "<group>"; };
 		0616EC8D2BB5003D00D35872 /* K个一组反转链表.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "K个一组反转链表.swift"; sourceTree = "<group>"; };
 		0616EC8F2BB5007E00D35872 /* LRU缓存.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LRU缓存.swift"; sourceTree = "<group>"; };
@@ -242,6 +252,11 @@
 				06DE18EA2D7589440046EF2C /* 通过中序和后续构建二叉树.swift */,
 				06DE18EC2D7597200046EF2C /* 通过前序和后续构建二叉树.swift */,
 				06DE18EE2D75AA810046EF2C /* 二叉树的序列化和反序列化.swift */,
+				0606B7D82D6CB5B200FE9548 /* 替换后的最长重复字符.swift */,
+				0606B7DA2D6CBF8F00FE9548 /* 存在重复元素2.swift */,
+				0606B7DC2D6E0BDA00FE9548 /* 存在重复元素3.swift */,
+				0606B7DE2D732E4A00FE9548 /* 填充节点的右侧指针.swift */,
+				0606B7E02D733BDA00FE9548 /* 二叉树展开为链表.swift */,
 			);
 			path = 2025;
 			sourceTree = "<group>";
@@ -390,6 +405,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				061A5EBE2BB6A04D00B52B66 /* 最长公共子序列.swift in Sources */,
+				0606B7E12D733BDA00FE9548 /* 二叉树展开为链表.swift in Sources */,
 				0662BDD52D5AEF9800B6EE2F /* 螺旋矩阵2.swift in Sources */,
 				06816CE52BB6BE6C008F0519 /* 二叉树的右视图.swift in Sources */,
 				0671D1A72D6F3FE6001B2E72 /* 长度最小的子数组.swift in Sources */,
@@ -402,10 +418,12 @@
 				06D4B5782D70463E002109A8 /* labuladong二叉树基础.swift in Sources */,
 				0616F4DC2BB448E5005791F0 /* 合并K个排序链表.swift in Sources */,
 				0616EC922BB500EE00D35872 /* 最大子数组合.swift in Sources */,
+				0606B7DF2D732E4A00FE9548 /* 填充节点的右侧指针.swift in Sources */,
 				067A6A932BB2D03400CBADBF /* 买卖股票的最佳时机.swift in Sources */,
 				064DBC302BBBAAED00DEB51E /* 盛最多水的容器.swift in Sources */,
 				0671D1A92D6F45FD001B2E72 /* 至少有 K 个重复字符的最长子串.swift in Sources */,
 				067D690B2D5EF14300965852 /* 字符串的排列.swift in Sources */,
+				0606B7D92D6CB5B200FE9548 /* 替换后的最长重复字符.swift in Sources */,
 				0616ECA22BB5746B00D35872 /* 环形链表2-环节点入口.swift in Sources */,
 				0616F4EA2BB8FCF2005791F0 /* 字符串转换整数.swift in Sources */,
 				06FC2D872BB3C5CA00B15E28 /* 合并两个有序数组.swift in Sources */,
@@ -432,6 +450,7 @@
 				06FC2D8D2BB40E0A00B15E28 /* 翻转链表2.swift in Sources */,
 				0616ECA82BB656E100D35872 /* 删除链表的倒数第K个节点.swift in Sources */,
 				064DBC322BBBB27600DEB51E /* 电话号码的数字组合.swift in Sources */,
+				0606B7DB2D6CBF8F00FE9548 /* 存在重复元素2.swift in Sources */,
 				064DBC2E2BBBA6ED00DEB51E /* 不同的二叉搜索树2.swift in Sources */,
 				067AD2FE2D65EA3B00EA7BB8 /* 最大连续1的个数 III.swift in Sources */,
 				06FE357E2D5A4B6C00ABB1E8 /* 最小覆盖子串.swift in Sources */,
@@ -450,6 +469,7 @@
 				0616ECAC2BB6605100D35872 /* 复原IP地址.swift in Sources */,
 				0616F4EC2BB90479005791F0 /* 括号生成.swift in Sources */,
 				06FC2D892BB3D05B00B15E28 /* 全排列.swift in Sources */,
+				0606B7DD2D6E0BDA00FE9548 /* 存在重复元素3.swift in Sources */,
 				0616F4E22BB822EA005791F0 /* 下一个排列.swift in Sources */,
 				06226A9D2BBC0ED400C2F716 /* 字母异位词分组.swift in Sources */,
 				0616EC8B2BB42CB600D35872 /* 螺旋矩阵.swift in Sources */,

@@ -21,28 +21,27 @@ class LongestOnesClass: NSObject {
     func longestOnes(_ nums: [Int], _ k: Int) -> Int {
         var left = 0
         var right = 0
-        var reverseCount = 0
         var maxLength = -1
         var reverseIndexArray = [Int]()
         while right < nums.count {
             let currentRightValue = nums[right]
             if currentRightValue == 0 {
-                reverseCount += 1
                 reverseIndexArray.append(right)
             }
             right += 1
-            if reverseCount == k + 1, left < right {
-                maxLength = max(maxLength, right - left)
-                left = right
-                reverseCount = 0
+            if reverseIndexArray.count == k+1, left < right {
+                left = 1 + (reverseIndexArray.first ?? 0)
+                right = left
+                reverseIndexArray.removeAll()
             }
+            maxLength = max(maxLength, right - left)
         }
         return maxLength
     }
 
     func main() {
-        let nums = [0, 0, 1, 1, 0, 0, 1, 1, 1, 0, 1, 1, 0, 0, 0, 1, 1, 1, 1]
-        let k = 3
+        let nums = [1,1,1,0,0,0,1,1,1,1,0]
+        let k = 2
         let result = longestOnes(nums, k)
         print(result)
     }
