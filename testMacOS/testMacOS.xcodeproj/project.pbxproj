@@ -45,6 +45,8 @@
 		0616F4EA2BB8FCF2005791F0 /* 字符串转换整数.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0616F4E92BB8FCF2005791F0 /* 字符串转换整数.swift */; };
 		0616F4EC2BB90479005791F0 /* 括号生成.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0616F4EB2BB90479005791F0 /* 括号生成.swift */; };
 		0616F4EE2BB96684005791F0 /* 滑动窗口的最大值.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0616F4ED2BB96684005791F0 /* 滑动窗口的最大值.swift */; };
+		06171DA22D7AA31D000910ED /* 排序练习.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06171DA12D7AA31D000910ED /* 排序练习.swift */; };
+		0619DFB22D84174600075E8D /* 完全平方数.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0619DFB12D84174600075E8D /* 完全平方数.swift */; };
 		061A5EBE2BB6A04D00B52B66 /* 最长公共子序列.swift in Sources */ = {isa = PBXBuildFile; fileRef = 061A5EBD2BB6A04D00B52B66 /* 最长公共子序列.swift */; };
 		061A5EC02BB6AAF700B52B66 /* 删除排序链表中的重复元素.swift in Sources */ = {isa = PBXBuildFile; fileRef = 061A5EBF2BB6AAF700B52B66 /* 删除排序链表中的重复元素.swift */; };
 		06226A952BBBF32D00C2F716 /* 正则表达式匹配.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06226A942BBBF32D00C2F716 /* 正则表达式匹配.swift */; };
@@ -80,6 +82,7 @@
 		06DE18EB2D7589440046EF2C /* 通过中序和后续构建二叉树.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06DE18EA2D7589440046EF2C /* 通过中序和后续构建二叉树.swift */; };
 		06DE18ED2D7597200046EF2C /* 通过前序和后续构建二叉树.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06DE18EC2D7597200046EF2C /* 通过前序和后续构建二叉树.swift */; };
 		06DE18EF2D75AA810046EF2C /* 二叉树的序列化和反序列化.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06DE18EE2D75AA810046EF2C /* 二叉树的序列化和反序列化.swift */; };
+		06DE18F12D75D63D0046EF2C /* 二叉树前序遍历.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06DE18F02D75D63D0046EF2C /* 二叉树前序遍历.swift */; };
 		06EDAA362BABC74900BCC224 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06EDAA352BABC74900BCC224 /* main.swift */; };
 		06EDAA3D2BAC190100BCC224 /* Sort.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06EDAA3C2BAC190100BCC224 /* Sort.swift */; };
 		06F2F1662BB6BF7100B6D830 /* 二分查找.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06F2F1652BB6BF7100B6D830 /* 二分查找.swift */; };
@@ -145,6 +148,8 @@
 		0616F4E92BB8FCF2005791F0 /* 字符串转换整数.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "字符串转换整数.swift"; sourceTree = "<group>"; };
 		0616F4EB2BB90479005791F0 /* 括号生成.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "括号生成.swift"; sourceTree = "<group>"; };
 		0616F4ED2BB96684005791F0 /* 滑动窗口的最大值.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "滑动窗口的最大值.swift"; sourceTree = "<group>"; };
+		06171DA12D7AA31D000910ED /* 排序练习.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "排序练习.swift"; sourceTree = "<group>"; };
+		0619DFB12D84174600075E8D /* 完全平方数.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "完全平方数.swift"; sourceTree = "<group>"; };
 		061A5EBD2BB6A04D00B52B66 /* 最长公共子序列.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "最长公共子序列.swift"; sourceTree = "<group>"; };
 		061A5EBF2BB6AAF700B52B66 /* 删除排序链表中的重复元素.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "删除排序链表中的重复元素.swift"; sourceTree = "<group>"; };
 		06226A942BBBF32D00C2F716 /* 正则表达式匹配.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "正则表达式匹配.swift"; sourceTree = "<group>"; };
@@ -180,6 +185,7 @@
 		06DE18EA2D7589440046EF2C /* 通过中序和后续构建二叉树.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "通过中序和后续构建二叉树.swift"; sourceTree = "<group>"; };
 		06DE18EC2D7597200046EF2C /* 通过前序和后续构建二叉树.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "通过前序和后续构建二叉树.swift"; sourceTree = "<group>"; };
 		06DE18EE2D75AA810046EF2C /* 二叉树的序列化和反序列化.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "二叉树的序列化和反序列化.swift"; sourceTree = "<group>"; };
+		06DE18F02D75D63D0046EF2C /* 二叉树前序遍历.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "二叉树前序遍历.swift"; sourceTree = "<group>"; };
 		06EDAA322BABC74900BCC224 /* testMacOS */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = testMacOS; sourceTree = BUILT_PRODUCTS_DIR; };
 		06EDAA352BABC74900BCC224 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		06EDAA3C2BAC190100BCC224 /* Sort.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Sort.swift; sourceTree = "<group>"; };
@@ -257,6 +263,9 @@
 				0606B7DC2D6E0BDA00FE9548 /* 存在重复元素3.swift */,
 				0606B7DE2D732E4A00FE9548 /* 填充节点的右侧指针.swift */,
 				0606B7E02D733BDA00FE9548 /* 二叉树展开为链表.swift */,
+				06DE18F02D75D63D0046EF2C /* 二叉树前序遍历.swift */,
+				06171DA12D7AA31D000910ED /* 排序练习.swift */,
+				0619DFB12D84174600075E8D /* 完全平方数.swift */,
 			);
 			path = 2025;
 			sourceTree = "<group>";
@@ -431,6 +440,7 @@
 				06C6C2962BB158230069AF70 /* 合并两个有序链表.swift in Sources */,
 				06F2F1682BB6CCB000B6D830 /* 用栈实现队列.swift in Sources */,
 				0616ECA02BB5630300D35872 /* 重排链表.swift in Sources */,
+				06DE18F12D75D63D0046EF2C /* 二叉树前序遍历.swift in Sources */,
 				06DE18E72D75587F0046EF2C /* 最大二叉树.swift in Sources */,
 				06226A972BBBFFE500C2F716 /* 在排序数组中找元素的第一个位置和最后一个位置.swift in Sources */,
 				064DBC2C2BBB96B600DEB51E /* 不同的二叉搜索树.swift in Sources */,
@@ -481,11 +491,13 @@
 				0616EC9E2BB55B7B00D35872 /* 接雨水.swift in Sources */,
 				06C6C2982BB15B680069AF70 /* TwoSum.swift in Sources */,
 				06FC2D8B2BB3F7AB00B15E28 /* 二叉树的锯齿形层序遍历.swift in Sources */,
+				0619DFB22D84174600075E8D /* 完全平方数.swift in Sources */,
 				0616EC942BB501B200D35872 /* 反转链表.swift in Sources */,
 				06EDAA3D2BAC190100BCC224 /* Sort.swift in Sources */,
 				06250BDD2D55E74B0015A222 /* 从未排序的链表中移除重复元素.swift in Sources */,
 				06DE18EB2D7589440046EF2C /* 通过中序和后续构建二叉树.swift in Sources */,
 				06B247C02BB1A786001C9F6B /* TreeLevelOrder.swift in Sources */,
+				06171DA22D7AA31D000910ED /* 排序练习.swift in Sources */,
 				06C6C29A2BB16DE90069AF70 /* 最长回文子串.swift in Sources */,
 				06F2F1662BB6BF7100B6D830 /* 二分查找.swift in Sources */,
 				06226A952BBBF32D00C2F716 /* 正则表达式匹配.swift in Sources */,
