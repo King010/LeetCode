@@ -27,12 +27,9 @@ class DeleteDuplicatesClass: NSObject {
         }
         var countMap = [Int: Int]()
         
-        var p1Head: ListNode? = ListNode(-101)
-        var p2Head: ListNode? = ListNode(-101)
-        
+        let p1Head: ListNode? = ListNode(-101)
         var curNode = head
         var uniList = p1Head
-        var dupList = p2Head
         
         while curNode != nil {
             let key = curNode!.val

@@ -100,4 +100,17 @@ public class Node {
 //ContainsNearbyDuplicate().main()
 //PreOrderTreeNodeClass().main()
 //CommonSortTest1Class().main()
-NumSquaresClass().main()
+//NumSquaresClass().main()
+//FindLengthOfLCISClass().main()
+//TempFunctionClass().main()
+//OddEvenListClass().main()
+
+
+DispatchQueue.global().sync {
+    print("1")
+    DispatchQueue.global().sync {
+        print("2")
+    }
+    print("3")
+}
+print("4")
